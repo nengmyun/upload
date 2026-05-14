@@ -1,3 +1,2 @@
-# upload
-An open-source repository for YUHAN UNIV class, OPENSOURCE-SOFTWARE
-(Uploaded file by git Bash)
+# 2026_oop2
+객체지향언어 2분반 수업 자료
